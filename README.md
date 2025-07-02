@@ -102,24 +102,6 @@ w_r = clip(1.0 + α * (C_avg - C_r), 0.5, 2.0)
 
 ---
 
-## 👨‍💻 Authors
-
-- **Siddhi Patil** – [siddhipatil064@gmail.com](mailto:siddhipatil064@gmail.com)  
-- **Vijay Kalmani** – [vijaykalmani@gmail.com](mailto:vijaykalmani@gmail.com) *(Corresponding Author)*  
-- **Amol Adamuthe** – [amol.admuthe@gmail.com](mailto:amol.admuthe@gmail.com)
-
----
-
-## 📄 Citation
-
-```bibtex
-@article{fairsurvtrans2025,
-  title     = {FairSurvTrans: An LLM-Inspired Transformer for Equitable Survival Prediction in Hematopoietic Cell Transplantation},
-  author    = {Kalmani, Vijay and Patil, Siddhi and Adamuthe, Amol},
-  journal   = {Under Review},
-  year      = {2025}
-}
-```
 
 ---
 
